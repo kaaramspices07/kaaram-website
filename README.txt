@@ -1,26 +1,19 @@
-# Kaaram Spices Website
+# KAARAMSPICES website
 
-A responsive, premium single-page website for Kaaram Spices.
+A responsive animated brand website for KAARAMSPICES, featuring the supplied chilli powder pack image and brand ambassador image.
 
-## Included
-- `index.html` — complete website
-- `style.css` — responsive styling, animations and layout
-- `script.js` — preloader, mobile navigation and scroll reveals
-- `assets/brand-ambassador.jpeg` — supplied brand ambassador image
-- `assets/red-chilli-powder.jpeg` — supplied product image
+## How to open
+1. Download and extract `kaaramspices-website.zip`.
+2. Open the extracted folder.
+3. Double-click `index.html` to open the website in Chrome or Edge.
 
-## Business details used
-Address:
-Skanda Business Hub, 3rd Floor, Shop No. 18,
-Abdullah Khan Estate, Kurnool
+## How to edit
+- `index.html` — wording, address, phone number and sections.
+- `style.css` — colours, layout, fonts and animations.
+- `script.js` — menu, scroll reveals and entrance effects.
+- `images/` — supplied product and brand images.
 
-Phone:
-+91 97032 42717
+The website uses Google Fonts when internet is available. The rest of the site is static and can be opened locally without installing Node.js.
 
-## Run locally
-Open `index.html` in a browser.
-
-For best results, serve the folder with a simple local web server. The site uses Google Fonts when internet access is available, but the layout remains functional if the fonts cannot load.
-
-## WhatsApp
-The Order buttons open WhatsApp for `+91 97032 42717` with a pre-filled Red Chilli Powder enquiry.
+## Before publishing
+Please confirm that all product claims, packaging details, and brand/ambassador image usage are approved for commercial use. This is a front-end promotional website; it does not include online payments, inventory, or a product ordering backend.
